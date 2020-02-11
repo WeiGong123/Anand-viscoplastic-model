@@ -1,0 +1,8 @@
+1.0665 10.4133e3 8.265e7 2.55 0.141446 5023.9 20.2976 3.2472e-2 1.120371
+298 348 398
+0.0001 0.001
+
+Note:
+1st line: Anand model 9 constants (s0 QR A xi m h0 ss n a)
+2nd line: temperatures
+3rd line: strain rates
