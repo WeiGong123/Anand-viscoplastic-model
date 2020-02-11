@@ -2,11 +2,6 @@
 
 # MR Wei Gong
 # Senior Design & Development Engineer
-# R&D Centre: Semiconductors
-# Tel: +44(0)1522 502774
-# Email: wei.gong@dynexsemi.com   
-# Dynex Semiconductor Ltd.
-# Doddington Road, Lincoln LN6 3LF
 
 # Reference: Motalab, Mohammad, et al. "Determination of Anand constants for SAC solders using stress-strain or creep data." 13th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems. IEEE, 2012.
 
